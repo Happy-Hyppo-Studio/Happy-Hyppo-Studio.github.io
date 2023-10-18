@@ -43,7 +43,7 @@
   --bs-light: #50415D;
   --bs-dark: #000000;
   --bs-primary-rgb: 255, 65, 43;
-  --bs-secondary-rgb: 36, 23, 45;
+  --bs-secondary-rgb: 255, 216, 224;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
@@ -10907,7 +10907,7 @@ html {
   color: #50415D;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #FF412B;
+  color: #BA7380;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #50415D;
@@ -10938,8 +10938,8 @@ html {
     background: #FF412B;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: #50415D;
-    background: #FF412B;
+    color: #FFFFFF;
+    background: #50415D;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
