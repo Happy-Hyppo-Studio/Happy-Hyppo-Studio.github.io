@@ -10969,14 +10969,14 @@ html {
 
 .masthead {
   padding-top: calc(6rem + 74px);
-  padding-bottom: 6rem;
+  padding-bottom: 1rem;
 }
 .masthead .masthead-heading {
   font-size: 6rem;
   line-height: 1rem;
 }
 .masthead .masthead-subheading {
-  font-size: 1.25rem;
+  font-size: 3rem;
 }
 .masthead .masthead-avatar {
   width: 50rem;
